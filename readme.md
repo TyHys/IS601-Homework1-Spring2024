@@ -1,6 +1,7 @@
 # Homework One
 ## Instructions
 ### Author: Tyler Hayes
+Hello Professor
 1. Install WSL2 with Ubuntu Linux installed
 2. create a GitHub Account
 3. create a folder for projects
